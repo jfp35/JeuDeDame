@@ -1,0 +1,7 @@
+blanc
+True
+3,4
+2,3,noir,dame
+1,4,noir,pion
+3,4,blanc,pion
+5,4,blanc,pion
